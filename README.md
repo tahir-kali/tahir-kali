@@ -1,1 +1,1 @@
-<h1> Hello this is Tahir a fullstack developer based in Tajikistan </h1>
+<h1> Hello, this is Tahir! I build software products. </h1>
